@@ -1,0 +1,2 @@
+# cleanr
+Recursively clean objects
