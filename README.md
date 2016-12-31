@@ -9,11 +9,11 @@ npm install [--save] cleanr
 ```javascript
 const clean = require('cleanr');
 
-const my-object = {...}
+const object = {...}
 
-console.log(clean(my-object));
+console.log(clean(object));
 ```
-> This will log `my-object` without the empty parameters to the console.
+> This will log `object` without the empty parameters to the console.
 
 ## What is `empty`
   - {}

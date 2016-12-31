@@ -1,1 +1,1 @@
-{"name":"cleanr","main":"./lib/app.js","repository":{"url":"https://github.com/tobihrbr/cleanr.git","type":"git"},"version":"0.2.4","description":"Recursively clean objects ","keywords":["recursive","clean","objects"],"license":"MIT","author":"tobihrbr"}
+{"name":"cleanr","main":"./lib/app.js","repository":{"url":"https://github.com/tobihrbr/cleanr.git","type":"git"},"version":"0.2.5","description":"Recursively clean objects ","keywords":["recursive","clean","objects"],"license":"MIT","author":"tobihrbr"}
